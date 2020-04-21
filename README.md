@@ -6,7 +6,7 @@ Feel free to use [this presentation](https://docs.google.com/presentation/d/16YE
 
 ### Starting Code
 
-Open [this CodeSandbox](https://codesandbox.io/s/webinar-base-template-xgu3i) and start editing. It will automatically create a *fork* (that is, a duplicate) for you to work on.
+Open [this CodeSandbox](https://codesandbox.io/s/webinar-base-template-xxs3k) and start editing. It will automatically create a *fork* (that is, a duplicate) for you to work on.
 
 ### What we'll be building
 
