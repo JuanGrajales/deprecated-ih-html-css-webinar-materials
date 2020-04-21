@@ -2,7 +2,7 @@
 
 ### Presentation
 
-Feel free to use [this presentation](https://docs.google.com/presentation/d/1r3024BjM8IT6IbZQGjzZdnOGjEDCZ8vdE94YovRy7BI) as a reference.
+Feel free to use [this presentation](https://docs.google.com/presentation/d/16YETqoE0T2QqjpjdD9O2wD534sT6Lckj17gTqh-4y6g/edit#slide=id.g71ae2059be_0_33) as a reference.
 
 ### Starting Code
 
