@@ -60,4 +60,4 @@ white
 
 ### Final Result
 
-The final result is [available here](https://codesandbox.io/s/webinar-base-template-eyytc).
+The final result is [available here](https://codesandbox.io/s/webinar-completed-example-u1qpo?file=/style.css).
