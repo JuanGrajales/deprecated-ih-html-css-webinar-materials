@@ -14,7 +14,7 @@ We'll be building the following Book Announcement Landing Page:
 
 <img src="https://i.imgur.com/t7bqMEl.jpg">
 
-You can see the intended finished result [here](https://6kpl9.csb.app/), as well as the corresponding [source code](https://codesandbox.io/s/webinar-html-css-simplified-ihrbx).
+You can see the intended finished result [here](https://ihrbx.csb.app/), as well as the corresponding [source code](https://codesandbox.io/s/webinar-html-css-simplified-ihrbx).
 
 ### Book Cover
 
